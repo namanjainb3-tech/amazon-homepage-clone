@@ -93,6 +93,23 @@ Through this project, I learned:
 
 ---
 
+## 📱 Responsive Design
+
+This project was primarily developed and tested on laptop screens.
+
+### Best Viewing Experience
+- Browser zoom: **60% – 70%**
+- Laptop/Desktop screens
+
+### Current Limitation
+The layout is not fully responsive yet and may not display perfectly on:
+- Mobile devices
+- Tablets
+- Large monitor resolutions
+- 100% browser zoom on some screens
+
+---
+
 ## 🚀 Future Improvements
 
 * Make the website fully responsive for mobile devices

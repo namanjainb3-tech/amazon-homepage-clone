@@ -10,6 +10,12 @@ A modern Amazon-inspired homepage clone built using **HTML5** and **CSS3**. This
 
 ---
 
+## 🏗️ System Architecture
+
+![System_Architecture](docs/architecture.png)
+
+---
+
 ## 🌟 Features
 
 * Amazon-style navigation bar

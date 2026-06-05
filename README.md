@@ -57,10 +57,25 @@ Amazon-Homepage-Clone/
 │
 ├── index.html
 ├── style.css
-├── README.md
+├── amazon-clone.mp4
 │
-└── screenshots/
-    └── homepage.png
+├── assets/
+│   ├── Amazon-Logo.png
+│   ├── Amazon-Emblem.jpg
+│   ├── hero-image.jpg
+│   ├── india.png
+│   ├── appliance-*.jpg
+│   ├── bike-*.jpg
+│   ├── book-*.jpg
+│   ├── kitchen-*.jpg
+│   ├── shopping*.jpg
+│   └── toy-*.jpg
+│
+├── screenshots/
+│   └── homepage.png
+│
+└── docs/
+    └── architecture.png
 ```
 
 ---

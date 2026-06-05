@@ -4,6 +4,17 @@ A modern Amazon-inspired homepage clone built using **HTML5** and **CSS3**. This
 
 ---
 
+## 🚀 Live Demo
+
+Explore the Amazon Homepage Clone directly in your browser:
+
+👉 **Live Website:**  
+https://namanjainb3-tech.github.io/amazon-homepage-clone/
+
+> Best viewed on desktop/laptop screens.
+
+---
+
 ## 📸 Preview
 
 ![Homepage Preview](screenshots/homepage.jpeg)

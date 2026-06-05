@@ -6,8 +6,6 @@ A modern Amazon-inspired homepage clone built using **HTML5** and **CSS3**. This
 
 ## 📸 Preview
 
-> Add a screenshot of your project below:
-
 ```md
 ![Homepage Preview](screenshots/homepage.jpeg)
 ```

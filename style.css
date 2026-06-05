@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image:url(../Images/assets/miscellaneous/Amazon-Emblem.jpg);
+    background-image:url(../assets/miscellaneous/Amazon-Emblem.jpg);
     background-size: cover;
     height:50px;
     width:100%;
@@ -155,7 +155,7 @@
 /*hero-section*/
 
 .hero-section{
-    background-image:url(../Images/assets/miscellaneous/hero-image.jpg);
+    background-image:url(../assets/miscellaneous/hero-image.jpg);
     height:500px;
     background-size: cover;
     display: flex;
@@ -199,7 +199,7 @@
 }
 
 .shopping-1{
-    background-image: url(../Images/assets/shopping/shopping1.jpg);
+    background-image: url(../assets/shopping/shopping1.jpg);
     width:350px;
     height:400px;
     margin:10px;
@@ -212,7 +212,7 @@
 }
 
 .shopping-2{
-    background-image: url(../Images/assets/shopping/shopping2.jpg);
+    background-image: url(../assets/shopping/shopping2.jpg);
     width:350px;
     height:400px;
     margin:10px;
@@ -239,22 +239,22 @@
 }
 
 .toy-1{
-    background-image: url(../Images/assets/toys/toy-1.jpg);
+    background-image: url(../assets/toys/toy-1.jpg);
     background-size: cover;
 }
 
 .toy-2{
-    background-image: url(../Images/assets/toys/toy-2.jpg);
+    background-image: url(../assets/toys/toy-2.jpg);
     background-size: cover;
 }
 
 .toy-3{
-    background-image: url(../Images/assets/toys/toy-3.jpg);
+    background-image: url(../assets/toys/toy-3.jpg);
     background-size: cover;
 }
 
 .toy-4{
-    background-image: url(../Images/assets/toys/toy-4.jpg);
+    background-image: url(../assets/toys/toy-4.jpg);
     background-size: cover;
 }
 
@@ -278,22 +278,22 @@
 }
 
 .kitchen-1{
-    background-image: url(../Images/assets/kitchen/kitchen-1.jpg);
+    background-image: url(../assets/kitchen/kitchen-1.jpg);
     background-size: cover;
 }
 
 .kitchen-2{
-    background-image: url(../Images/assets/kitchen/kitchen-2.jpg);
+    background-image: url(../assets/kitchen/kitchen-2.jpg);
     background-size: cover;
 }
 
 .kitchen-3{
-    background-image: url(../Images/assets/kitchen/kitchen-3.jpg);
+    background-image: url(../assets/kitchen/kitchen-3.jpg);
     background-size: cover;
 }
 
 .kitchen-4{
-    background-image: url(../Images/assets/kitchen/kitchen-4.jpg);
+    background-image: url(../assets/kitchen/kitchen-4.jpg);
     background-size: cover;
 }
 
@@ -317,22 +317,22 @@
 }
 
 .appliance-1{
-    background-image: url(../Images/assets/appliances/appliance-1.jpg);
+    background-image: url(../assets/appliances/appliance-1.jpg);
     background-size: cover;
 }
 
 .appliance-2{
-    background-image: url(../Images/assets/appliances/appliance-2.jpg);
+    background-image: url(../assets/appliances/appliance-2.jpg);
     background-size: cover;
 }
 
 .appliance-3{
-    background-image: url(../Images/assets/appliances/appliance-3.jpg);
+    background-image: url(../assets/appliances/appliance-3.jpg);
     background-size: cover;
 }
 
 .appliance-4{
-    background-image: url(../Images/assets/appliances/appliance-4.jpg);
+    background-image: url(../assets/appliances/appliance-4.jpg);
     background-size: cover;
 }
 
@@ -356,22 +356,22 @@
 }
 
 .book-1{
-    background-image: url(../Images/assets/books/book-1.jpg);
+    background-image: url(../assets/books/book-1.jpg);
     background-size: cover;
 }
 
 .book-2{
-    background-image: url(../Images/assets/books/book-2.jpg);
+    background-image: url(../assets/books/book-2.jpg);
     background-size: cover;
 }
 
 .book-3{
-    background-image: url(../Images/assets/books/book-3.jpg);
+    background-image: url(../assets/books/book-3.jpg);
     background-size: cover;
 }
 
 .book-4{
-    background-image: url(../Images/assets/books/book-4.jpg);
+    background-image: url(../assets/books/book-4.jpg);
     background-size: cover;
 }
 
@@ -381,7 +381,7 @@
 }
 
 .shopping-7{
-    background-image: url(../Images/assets/shopping/shopping-7.jpg);
+    background-image: url(../assets/shopping/shopping-7.jpg);
     width:350px;
     height: 370px;
     margin:10px;
@@ -394,7 +394,7 @@
 }
 
 .shopping-8{
-    background-image: url(../Images/assets/shopping/shopping-8.jpg);
+    background-image: url(../assets/shopping/shopping-8.jpg);
     width:350px;
     height: 370px;
     margin:10px;
@@ -432,22 +432,22 @@
 }
 
 .bike-1{
-    background-image: url(../Images/assets/bikes/bike-1.jpg);
+    background-image: url(../assets/bikes/bike-1.jpg);
     background-size: cover;
 }
 
 .bike-2{
-    background-image: url(../Images/assets/bikes/bike-2.jpg);
+    background-image: url(../assets/bikes/bike-2.jpg);
     background-size: cover;
 }
 
 .bike-3{
-    background-image: url(../Images/assets/bikes/bike-3.jpg);
+    background-image: url(../assets/bikes/bike-3.jpg);
     background-size: cover;
 }
 
 .bike-4{
-    background-image: url(../Images/assets/bikes/bike-4.jpg);
+    background-image: url(../assets/bikes/bike-4.jpg);
     background-size: cover;
 }
 
@@ -498,7 +498,7 @@ ul p{
 }
 
 .amazon-logo{
-    background-image:url(../Images/assets/miscellaneous/Amazon-Emblem.jpg);
+    background-image:url(../assets/miscellaneous/Amazon-Emblem.jpg);
     background-size: cover;
     height:50px;
     width:100px;}
@@ -530,7 +530,7 @@ ul p{
 .india-img{
     height:20px;
     width:30px;
-    background-image: url(../Images/assets/miscellaneous/india.png);
+    background-image: url(../assets/miscellaneous/india.png);
     background-size: cover;
 }
 
